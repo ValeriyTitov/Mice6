@@ -13,6 +13,7 @@ Mice 6 is dependend on following components, which should obtained manually:
 - [Delphi 11.1](https://www.embarcadero.com/ru/products/delphi)
 - [DevExpress for VCL 22.2.3](https://www.devexpress.com/products/vcl/)
 - [Fast Reports](www.fast-report.com)
+- [Rabbit MQ] (https://www.rabbitmq.com)
 
 And uses built in source code:
 - BoneCode Editor (Opensource editor originally developed by BoneCode and Nils Hoyer, no longer avaible on GitHub)
