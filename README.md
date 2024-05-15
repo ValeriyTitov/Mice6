@@ -14,4 +14,6 @@ And uses built in source code:
 - BoneCode Editor (built-in, no longer avaible on GitHub)
 - JsonDataObjects (only for BCEditor)
 - Oxygen Icon Pack
+
+  
 ![Bpms](https://github.com/ValeriyTitov/Mice6/assets/34241725/cc329daa-034f-49ae-b1dc-7f395d70d6fe)
