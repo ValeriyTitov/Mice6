@@ -10,7 +10,7 @@
 **Mice 6 is dependencies**
 - [Delphi 11.1](https://www.embarcadero.com/ru/products/delphi)
 - [DevExpress for VCL 22.2.3](https://www.devexpress.com/products/vcl/)
-- [Fast Reports](https://www.fastreport.ru)
+- [Fast Reports VCL](https://www.fastreport.ru)
 - [Rabbit MQ](https://www.rabbitmq.com)
 
 **Built in libriries**:
