@@ -1,4 +1,4 @@
-# Mice6
+# Mice 6
 **Mice 6** - это Windows-программа для быстрого создания самых сложных корпоративных бизнес-процессов самым простым способом.
 
 **Mice 6** is a low-code BPM system for Windows workstations to create most complex enterprise applications in most simple way.
