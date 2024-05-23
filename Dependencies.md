@@ -3,9 +3,9 @@
 - PostGre (not tested)
 
 **Windows Client/Manager dependencies**
-- [Delphi 11.1](https://www.embarcadero.com/ru/products/delphi)
-- [DevExpress for VCL 22.2.3](https://www.devexpress.com/products/vcl/)
-- [Fast Reports VCL](https://www.fastreport.ru)
+- [Delphi 12](https://www.embarcadero.com/ru/products/delphi)
+- [DevExpress for VCL 23.2.6](https://www.devexpress.com/products/vcl/)
+- [Fast Reports VCL 2023.2](https://www.fastreport.ru)
 
 **Built in open-source libriries**:
 - BoneCode Editor (Opensource editor originally developed by BoneCode and Nils Hoyer, no longer avaible on GitHub)
