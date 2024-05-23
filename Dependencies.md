@@ -6,7 +6,7 @@
 - [Delphi 11.1](https://www.embarcadero.com/ru/products/delphi)
 - [DevExpress for VCL 22.2.3](https://www.devexpress.com/products/vcl/)
 - [Fast Reports VCL](https://www.fastreport.ru)
-- [Rabbit MQ](https://www.rabbitmq.com)
+- [Rabbit MQ](https://www.rabbitmq.com), requires Erlang to be installed.
 
 **Built in libriries**:
 - BoneCode Editor (Opensource editor originally developed by BoneCode and Nils Hoyer, no longer avaible on GitHub)
