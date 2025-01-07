@@ -37,6 +37,10 @@
 #Android64/
 #iOSDevice64/
 #Linux64/
+[Oo]ut/
+[Cc]omponents/[Ff]ast[Rr]eport/
+[Jj]son[Vv]iew/
+
 
 # Delphi compiler-generated binaries (safe to delete)
 *.exe
