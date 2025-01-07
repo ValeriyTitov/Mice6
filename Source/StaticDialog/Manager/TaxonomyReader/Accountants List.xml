@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xbrli:xbrl xmlns:dim-int="http://www.cbr.ru/xbrl/udr/dim/dim-int" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:purcb-dic="http://www.cbr.ru/xbrl/nso/purcb/dic/purcb-dic" xmlns:link="http://www.xbrl.org/2003/linkbase" xmlns:iso4217="http://www.xbrl.org/2003/iso4217" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xbrldi="http://xbrl.org/2006/xbrldi" xsi:schemaLocation="http://xbrl.org/2006/xbrldi http://www.xbrl.org/2006/xbrldi-2006.xsd" xmlns:xbrli="http://www.xbrl.org/2003/instance">
+  <link:schemaRef xlink:type="simple" xlink:href="http://www.cbr.ru/xbrl/nso/purcb/rep/2018-03-31/ep/ep_nso_purcb_m_q_30d.xsd" />
+  <xbrli:context id="A1">
+    <xbrli:entity>
+      <xbrli:identifier scheme="http://www.cbr.ru">111111111111111</xbrli:identifier>
+    </xbrli:entity>
+    <xbrli:period>
+      <xbrli:instant>2018-03-31</xbrli:instant>
+    </xbrli:period>
+    <xbrli:scenario>
+      <xbrldi:typedMember dimension="dim-int:ID_strokiTaxis">
+        <dim-int:ID_strokiTypedname>RowNumberID1</dim-int:ID_strokiTypedname>
+      </xbrldi:typedMember>
+      <xbrldi:typedMember dimension="dim-int:Sved_o_Rab_i_SDTaxis">
+        <dim-int:ID_FLTypedName>Accountant1</dim-int:ID_FLTypedName>
+      </xbrldi:typedMember>
+    </xbrli:scenario>
+  </xbrli:context>
+  <xbrli:context id="A2">
+    <xbrli:entity>
+      <xbrli:identifier scheme="http://www.cbr.ru">111111111111111</xbrli:identifier>
+    </xbrli:entity>
+    <xbrli:period>
+      <xbrli:instant>2018-03-31</xbrli:instant>
+    </xbrli:period>
+    <xbrli:scenario>
+      <xbrldi:typedMember dimension="dim-int:ID_strokiTaxis">
+        <dim-int:ID_strokiTypedname>RowNumberID2</dim-int:ID_strokiTypedname>
+      </xbrldi:typedMember>
+      <xbrldi:typedMember dimension="dim-int:Sved_o_Rab_i_SDTaxis">
+        <dim-int:ID_FLTypedName>Accountant2</dim-int:ID_FLTypedName>
+      </xbrldi:typedMember>
+    </xbrli:scenario>
+  </xbrli:context>
+
+  <purcb-dic:FIO_glavbux contextRef="A1">John Smith</purcb-dic:FIO_glavbux>
+  <purcb-dic:Data_rozhdeniya_Sved_o_Gl_Bux contextRef="A1">1980-03-01</purcb-dic:Data_rozhdeniya_Sved_o_Gl_Bux>
+  <purcb-dic:FIO_glavbux contextRef="A2">Marry Williams</purcb-dic:FIO_glavbux>
+  <purcb-dic:Data_rozhdeniya_Sved_o_Gl_Bux contextRef="A2">1985-03-28</purcb-dic:Data_rozhdeniya_Sved_o_Gl_Bux>
+</xbrli:xbrl>
