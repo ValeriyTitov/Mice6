@@ -5,6 +5,6 @@ Windows-программа для быстрого создания самых �
   
 **Screenshot**
 
-![Bpms](https://github.com/ValeriyTitov/Mice6/assets/34241725/cc329daa-034f-49ae-b1dc-7f395d70d6fe)
+![image](https://github.com/user-attachments/assets/fdac325d-841e-4ec3-9202-c19910bd9d34)
 
 - Mice 6 dependens on [this list](https://github.com/ValeriyTitov/Mice6/blob/main/Dependencies.md) of components
