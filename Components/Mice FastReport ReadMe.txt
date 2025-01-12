@@ -1,5 +1,5 @@
 Следующие папки должны находиться здесь.
-Following folder must be here.
+Following folders must be here.
 
 .\FastReport\FastCore
 .\FastReport\FastGraphics
