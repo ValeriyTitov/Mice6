@@ -8,3 +8,4 @@ Windows-программа для быстрого создания самых �
 ![image](https://github.com/user-attachments/assets/fdac325d-841e-4ec3-9202-c19910bd9d34)
 
 - Mice 6 dependens on [this list](https://github.com/ValeriyTitov/Mice6/blob/main/Dependencies.md) of components
+![Движение доекумента](https://github.com/user-attachments/assets/fa819eba-937e-4176-b61b-2ba2865925fd)
