@@ -4,6 +4,8 @@
 Windows-программа для быстрого создания самых сложных корпоративных бизнес-процессов самым простым способом.
 
 Небольшое разъяснющее видео: https://rutube.ru/video/222073494d70da02da854f6fa7d4e591/
+Демнострационный пример "Калькулятор": https://vkvideo.ru/video1028389302_456239017
+
 
 ![image](https://github.com/user-attachments/assets/fdac325d-841e-4ec3-9202-c19910bd9d34)
 ![Движение доекумента](https://github.com/user-attachments/assets/fa819eba-937e-4176-b61b-2ba2865925fd)
